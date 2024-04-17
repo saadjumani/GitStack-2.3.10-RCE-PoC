@@ -4,7 +4,7 @@
 # Software Link: https://gitstack.com/
 # Original Exploit Author: Kacper Szurek
 # Converted to Python3 by: saadjumani
-
+# Only to be used on authorized systems during pentest or CTFs.
 #
 #1. Description
 #
