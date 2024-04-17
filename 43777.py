@@ -2,11 +2,7 @@
 # Exploit: GitStack 2.3.10 Unauthenticated Remote Code Execution
 # Date: 18.01.2018
 # Software Link: https://gitstack.com/
-# Exploit Author: Kacper Szurek
-# Contact: https://twitter.com/KacperSzurek
-# Website: https://security.szurek.pl/
-# Category: remote
-
+# Original Exploit Author: Kacper Szurek
 # Converted to Python3 by: saadjumani
 
 #
